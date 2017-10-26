@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/i-said-high-contrast-dammit-syntax",
+  "repository": "https://github.com/micklat/i-said-high-contrast-dammit-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
