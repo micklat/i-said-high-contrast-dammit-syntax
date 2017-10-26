@@ -1,0 +1,15 @@
+{
+  "name": "i-said-high-contrast-dammit-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A really high contrast, dark syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/i-said-high-contrast-dammit-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
